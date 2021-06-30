@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name GroveCon)(type KiCad)(uri "$(KIPRJMOD)/GroveCon.pretty")(options "")(descr ""))
+  (lib (name TSSOP)(type KiCad)(uri D:/10_PCBDesign/03_BreakOut/I2CUartConverter_v1.0/Housings_SSOP.pretty)(options "")(descr ""))
+)
