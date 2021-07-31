@@ -1,4 +1,4 @@
-# I2C_RS422_RS485_Converter
+# I2C-RS422/485変換基板 
 
 I2C-RS422/485 Converter with Grove Connector
 
