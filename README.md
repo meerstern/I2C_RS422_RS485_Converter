@@ -12,7 +12,8 @@ I2C-RS422/485 Converter with Grove Connector
   * I2C/UARTプロトコルブリッジSC16IS750は64bytesのバッファを内蔵しています
   * 7.3728MHzの水晶発振子を搭載しており、マイコンのメインクロックから独立してRS422/RS485のボーレート設定ができます 
   * デフォルトI2Cアドレスは8bit:0x9A(7bit:0x4D)です  
-  * 固定穴M3x2 幅18mm  
+  * 半二重RS422/RS485通信のため、送信時はRTSをHigh、送信時以外はRTSをLowにして使用してください    
+  * 基板サイズ33mm x24mm、固定穴M3x2 幅18mm  
 
 <img src="https://raw.githubusercontent.com/meerstern/I2C_RS422_RS485_Converter/main/IMG/img1.JPG" width="360">
 
