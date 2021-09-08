@@ -16,6 +16,9 @@ I2C-RS422/485 Converter with Grove Connector
   * 終端抵抗RX2は未実装です  必要に応じて終端抵抗をRX2もしくは端子台に接続してください  
   * 基板サイズ33mm x24mm、固定穴M3x2 幅18mm  
 
+## 注意 
+  * Arduino Uno以外の場合はサンプルコード内SC16IS750.cppの29行目付近のWire定義を必要に応じて変更してください  
+
 <img src="https://raw.githubusercontent.com/meerstern/I2C_RS422_RS485_Converter/main/IMG/img1.JPG" width="360">
 
 <img src="https://raw.githubusercontent.com/meerstern/I2C_RS422_RS485_Converter/main/IMG/img2.JPG" width="360">
