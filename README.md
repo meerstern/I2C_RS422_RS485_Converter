@@ -19,6 +19,9 @@ I2C-RS422/485 Converter with Grove Connector
 ## 注意 
   * Arduino Uno以外の場合はサンプルコード内SC16IS750.cppの29行目付近のWire定義を必要に応じて変更してください  
 
+## 販売サイト
+  * [スイッチサイエンス][3]
+  
 <img src="https://raw.githubusercontent.com/meerstern/I2C_RS422_RS485_Converter/main/IMG/img1.JPG" width="360">
 
 <img src="https://raw.githubusercontent.com/meerstern/I2C_RS422_RS485_Converter/main/IMG/img2.JPG" width="360">
@@ -26,4 +29,5 @@ I2C-RS422/485 Converter with Grove Connector
     
 [1]: https://www.nxp.com/products/peripherals-and-logic/signal-chain/bridges/single-uart-with-i2c-bus-spi-interface-64-bytes-of-transmit-and-receive-fifos-irda-sir-built-in-support:SC16IS740_750_760 "*1"
 [2]: https://www.st.com/ja/interfaces-and-transceivers/st3485ei.html "*2"
+[3]: https://www.switch-science.com/products/7395
 MIT Lisense
